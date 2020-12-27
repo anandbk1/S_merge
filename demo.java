@@ -4,5 +4,3 @@ c
 d
 x
 y
-add
-subtract
